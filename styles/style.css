@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(../images/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(27, 35, 22);
+}
