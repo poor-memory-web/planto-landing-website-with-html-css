@@ -4,7 +4,7 @@
     margin: 0px;
 }
 
-body {
+header {
     background-image: url(../images/Background.png);
     background-repeat: no-repeat;
     background-size: cover;
