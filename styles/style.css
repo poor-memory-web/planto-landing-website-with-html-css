@@ -10,3 +10,23 @@ header {
     background-size: cover;
     background-color: rgb(27, 35, 22);
 }
+
+.f-inter-reqular {
+    font-family: "inter-regular";
+}
+
+.f-inter-medium {
+    font-family: "inter-medium";
+}
+
+.f-inter-semibold {
+    font-family: "inter-semibold";
+}
+
+.f-inter-extrabold {
+    font-family: "inter-extrabold";
+}
+
+.f-inter-black {
+    font-family: "inter-black";
+}
