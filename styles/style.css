@@ -30,3 +30,7 @@ header {
 .f-inter-black {
     font-family: "inter-black";
 }
+
+.nav-link{
+    color: white !important;
+}
